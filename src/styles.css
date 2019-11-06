@@ -1,0 +1,39 @@
+.SocialCard {
+  width: 400px;
+  border: 1px solid rgb(175, 165, 165);
+  border-radius: 10px;
+  padding-bottom: 8px;
+}
+
+.image {
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.header {
+  font-weight: bold;
+  color: black;
+  text-decoration: none !important;
+  padding: 8px 8px 0 8px;
+  font-size: 26px;
+}
+
+.description {
+  color: black;
+  padding: 4px 8px 4px 8px;
+  font-size: 14px
+}
+
+.link {
+  font-weight: lighter;
+  color: black;
+  padding: 0 8px 0 8px;
+  font-size: 12px
+}
+
+.ref {
+  text-decoration: none;
+}
+
+.list-style {
+  list-style-type: none;
+}
